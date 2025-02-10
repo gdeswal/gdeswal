@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gdeswal
+- 👋 Hi, I’m gaurav deswal
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data driven insights
